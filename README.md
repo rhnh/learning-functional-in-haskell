@@ -2,7 +2,7 @@
 Learning Haskell for fun from (Learn you Haskell)[http://learnyouahaskell.com/chapters]
 
 # Age 0
-## [Day #1 Basics](Day1.md)
+## [Day #1 Basics](./theory/1-basics.md)
 
-## [Day #2 Types and Type classes](day2.md)
-## [Day #3 Syntax of function](day3.md)
+## [Day #2 Types and Type classes](./theory/2-data-type.md)
+## [Day #3 Syntax of function](./theory/3-functions.md)
